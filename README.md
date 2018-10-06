@@ -1,5 +1,5 @@
 # The MongoDB Journal Podcast
-MongoDB Journal: A daily tasty, bite-sized nugget of MongoDB 
+MongoDB Journal: A tasty, bite-sized nugget of MongoDB 
 
 # Background
 The Journal was created to satisfy a need to communicate while keeping the medium highly consumable... call it a MongoDB Snack.
