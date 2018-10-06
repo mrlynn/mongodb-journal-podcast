@@ -1,8 +1,8 @@
-# MongoDB Minute
-MongoDB Minute: A daily tasty, bite-sized nugget of MongoDB 
+# The MongoDB Journal Podcast
+MongoDB Journal: A daily tasty, bite-sized nugget of MongoDB 
 
 # Background
-MongoDB Minute was created to satisfy a need to communicate while keeping the medium highly consumable... call it a MongoDB Snack.
+The Journal was created to satisfy a need to communicate while keeping the medium highly consumable... call it a MongoDB Snack.
 
 # Topic List and Schedule
 
