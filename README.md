@@ -1,10 +1,10 @@
-# Syntax.
+# The MongoDB Journal Podcast
 
-A tasty treats podcast for Web Developers.
+Delivering a delicious diary of detailed database documents, daily.
 
-This is the site that runs [Syntax.fm](https://syntax.fm) — go there to listen to it!
+This is the site that runs [mongodb.journalpodcast.com](https://mongodb.journalpodcast.com) — go there to listen to it!
 
-This site is built on React and Next.js
+This site is built on React and Next.js and was heavily influenced by [syntax.fm](https://syntax.fm)
 
 ## Requirements
 - Node 8.1.2 or higher
