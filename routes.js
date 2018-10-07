@@ -9,6 +9,10 @@ const routes = [
     page: 'index',
     prettyUrl: ({number = '', slug = ''}) => `/show/${number}/${slug}`,
     prettyUrlPatterns: [{ pattern: '/show/:number/:slug' }]
+  },
+  {
+    page: 'download',
+    prettyUrl: '/download'
   }
 ]
 

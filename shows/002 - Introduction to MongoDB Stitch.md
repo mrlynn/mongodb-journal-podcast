@@ -1,8 +1,8 @@
 ---
 number: 002
 title: Introduction to Stitch with Drew DiPalma
-date: 
-url: 
+date: 1538826039
+url: https://traffic.libsyn.com/syntax/Syntax000.mp3?dest-id=532671
 ---
 
 ## Show Notes

@@ -14,55 +14,11 @@ const Header = () => (
         >
           Ask a Question →
         </a>
-        </span>
+      </span>
     </div>
     <div className="header__right">
       <div className="title">
         <h2 className="tagline"></h2>
-        
-      </div>
-      <div className="people">
-        {/* <div className="person">
-          <img
-            src="/static/mlynn400x400.jpg"
-            alt=""
-            className="avatar"
-          />
-          <h3>Michael Lynn</h3>
-          <a
-            target="_blank"
-            href="https://twitter.com/mlynn"
-            className="person__social person__social--twitter"
-          >
-            @mlynn
-          </a>
-          <p>
-            DevRel Leader @MongoDB.
-          </p>
-        </div> */}
-
-        {/* <div className="person">
-          <img
-            src="https://avatars2.githubusercontent.com/u/669383?s=460&v=4"
-            alt=""
-            className="avatar"
-          />
-          <h3>Scott Tolinski</h3>
-          <a
-            target="_blank"
-            href="https://twitter.com/stolinski"
-            className="person__social person__social--twitter"
-          >
-            @stolinski
-          </a>
-          <p>
-            Web Developer, Creator of <a href="https://leveluptutorials.com/">Level Up Tuts</a>,
-            Bboy, Robotops Crew and{' '}
-            <a target="_blank" href="https://www.youtube.com/c/leveluptuts">
-              Youtuber
-            </a>
-          </p>
-        </div> */}
       </div>
     </div>
     <Subscribe />
