@@ -15,10 +15,10 @@ export default ({ show, baseURL }) => (
       <meta property="og:title" content={`${show.title} — The Journal Podcast ${show.displayNumber}`} />
       <meta
         property="og:description"
-        content="Journal files contain the write ahead logs; each journal entry describes the bytes the write operation changed in the data files. Journal files are append-only files."
+        content="The Journal Podcast - A daily download of deliciously durable data details"
       />
       <meta property="og:url" content={`${baseURL}/show/${show.displayNumber}/${slug(show.title)}`} />
-      <meta property="og:image" content={`${baseURL}/static/syntax-banner.png`} />
+      <meta property="og:image" content={`${baseURL}/static/journal-banner.png`} />
       <link rel="shortcut icon" href={`${baseURL}/static/favicon.png`} />
       <title>
         {show.title} — The Journal Podcast {show.displayNumber}

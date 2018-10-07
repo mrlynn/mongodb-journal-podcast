@@ -9,7 +9,7 @@ const Header = () => (
     </div>
     <div className="header__right">
       <div className="title">
-        <h2 className="tagline">A </h2>
+        <h2 className="tagline">The MongoDB Podcast</h2>
         <a
           target="_blank"
           href="https://goo.gl/forms/mgBf4ngRJmSx7Gcz2"
@@ -19,7 +19,7 @@ const Header = () => (
         </a>
       </div>
       <div className="people">
-        <div className="person">
+        {/* <div className="person">
           <img
             src="/static/mlynn400x400.jpg"
             alt=""
@@ -36,7 +36,7 @@ const Header = () => (
           <p>
             DevRel Leader @MongoDB.
           </p>
-        </div>
+        </div> */}
 
         {/* <div className="person">
           <img

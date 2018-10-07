@@ -3,6 +3,11 @@
   color white
   flex-wrap wrap
   margin 2rem auto
+  &__center
+    width 100%
+    text-align center
+    @media (max-width 800px)
+      width 100%
   &__left
     width 30%
     text-align center
@@ -24,7 +29,7 @@
 .title
   position relative
   &__potluck-btn
-    border 1px solid yellow
+    border 1px solid #13AA52
     border-radius 3px
     padding 5px 10px
     position absolute
@@ -59,7 +64,7 @@
       margin-right 1rem
       margin-bottom 1rem
     a
-      background yellow
+      background #13AA52
       display block
       color rgba(0,0,0,0.8)
       text-shadow: 1px 1px 0 rgba(255,255,255,0.2)
