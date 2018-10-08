@@ -2,7 +2,7 @@
 number: 001
 title: Birth of a Database
 date: 153888000
-url: https://traffic.libsyn.com/syntax/Syntax000.mp3?dest-id=532671
+url: 
 ---
 
 ## Show Notes

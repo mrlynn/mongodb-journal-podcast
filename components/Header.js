@@ -6,7 +6,7 @@ const Header = () => (
       <h1 aria-label="journalpodcast.com">
         <img className="header__logo" src="/static/logo.png" alt="Journal" />
       </h1>
-      <span className="tagLine">
+      <span className="tagLine">All things MongoDB and related.<br></br>
       <a
           target="_blank"
           href="https://goo.gl/forms/mgBf4ngRJmSx7Gcz2"
